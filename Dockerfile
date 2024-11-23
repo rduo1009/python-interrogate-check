@@ -1,4 +1,4 @@
-FROM python:3.10-alpine
+FROM python:3.13-alpine
 
 LABEL "maintainer" = "Jack McKew <jackmckew2@gmail.com>"
 
